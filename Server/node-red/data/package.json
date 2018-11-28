@@ -1,0 +1,13 @@
+{
+  "name": "node-red-project",
+  "description": "A Node-RED Project",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "moonjs": "^0.11.0",
+    "node-red-contrib-influxdb": "^0.2.2",
+    "node-red-contrib-uibuilder": "^1.0.8",
+    "node-red-dashboard": "^2.11.0",
+    "node-red-node-mysql": "0.0.17"
+  }
+}
